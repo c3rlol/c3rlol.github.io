@@ -1,8 +1,49 @@
-# Welcome To {c3rlol.github.io]
-
-*we are working on this*
-
-
-# check our server 
-
 https://discord.gg/epshop
+ https://discord.gg/epshop
+   https://discord.gg/epshop
+      https://discord.gg/epshop
+         https://discord.gg/epshop
+              https://discord.gg/epshop
+                          https://discord.gg/epshop
+                                  https://discord.gg/epshop
+                                             https://discord.gg/epshop
+                                                       https://discord.gg/epshop
+                                                                          https://discord.gg/epshop
+                                                                                           https://discord.gg/epshop
+                                                                                                         https://discord.gg/epshop
+                                                                                                                    https://discord.gg/epshop
+                                                                                                                             https://discord.gg/epshop                 
+                                                                                                                                   https://discord.gg/epshop
+                                                                                                                                                       https://discord.gg/epshop      
+                                                                                                                                                  https://discord.gg/epshop
+                                                                                                                                                https://discord.gg/epshop
+                                                                                                                                              https://discord.gg/epshop
+                                                                                                                                            https://discord.gg/epshop
+                                                                                                                                        https://discord.gg/epshop
+                                                                                                                                      https://discord.gg/epshop
+                                                                                                                                    https://discord.gg/epshop
+                                                                                                                                  https://discord.gg/epshop
+                                                                                                                                https://discord.gg/epshop
+                                                                                                                              https://discord.gg/epshop
+                                                                                                                            https://discord.gg/epshop
+                                                                                                                          https://discord.gg/epshop
+                                                                                                                        https://discord.gg/epshop
+                                                                                                                      https://discord.gg/epshop
+                                                                                                                    https://discord.gg/epshop
+                                                                                                                  https://discord.gg/epshop
+                                                                                                                https://discord.gg/epshop
+                                                                                                              https://discord.gg/epshop
+                                                                                                            
+                                                                                                            https://discord.gg/epshop
+                                                                                                            https://discord.gg/epsho
+                                                                                                            https://discord.gg/epsho
+                                                                                                            https://discord.gg/epshop 
+                                                                                                            https://discord.gg/epshop 
+                                                                                                             https://discord.gg/epshop
+                                                                                                              https://discord.gg/epshop
+                                                                                                               https://discord.gg/epshop
+                                                                                                               https://discord.gg/epshop
+                                                                                                                https://discord.gg/epshop
+                                                                                                                 https://discord.gg/epshop
+                                                                                                                 https://discord.gg/epshop
+                                                                                                            
