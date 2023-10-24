@@ -4,3 +4,5 @@
 
 
 # check our server 
+
+https://discord.gg/epshop
