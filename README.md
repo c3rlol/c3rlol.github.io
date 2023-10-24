@@ -1,49 +1,5 @@
-https://discord.gg/epshop
- https://discord.gg/epshop
-   https://discord.gg/epshop
-      https://discord.gg/epshop
-         https://discord.gg/epshop
-              https://discord.gg/epshop
-                          https://discord.gg/epshop
-                                  https://discord.gg/epshop
-                                             https://discord.gg/epshop
-                                                       https://discord.gg/epshop
-                                                                          https://discord.gg/epshop
-                                                                                           https://discord.gg/epshop
-                                                                                                         https://discord.gg/epshop
-                                                                                                                    https://discord.gg/epshop
-                                                                                                                             https://discord.gg/epshop                 
-                                                                                                                                   https://discord.gg/epshop
-                                                                                                                                                       https://discord.gg/epshop      
-                                                                                                                                                  https://discord.gg/epshop
-                                                                                                                                                https://discord.gg/epshop
-                                                                                                                                              https://discord.gg/epshop
-                                                                                                                                            https://discord.gg/epshop
-                                                                                                                                        https://discord.gg/epshop
-                                                                                                                                      https://discord.gg/epshop
-                                                                                                                                    https://discord.gg/epshop
-                                                                                                                                  https://discord.gg/epshop
-                                                                                                                                https://discord.gg/epshop
-                                                                                                                              https://discord.gg/epshop
-                                                                                                                            https://discord.gg/epshop
-                                                                                                                          https://discord.gg/epshop
-                                                                                                                        https://discord.gg/epshop
-                                                                                                                      https://discord.gg/epshop
-                                                                                                                    https://discord.gg/epshop
-                                                                                                                  https://discord.gg/epshop
-                                                                                                                https://discord.gg/epshop
-                                                                                                              https://discord.gg/epshop
-                                                                                                            
-                                                                                                            https://discord.gg/epshop
-                                                                                                            https://discord.gg/epsho
-                                                                                                            https://discord.gg/epsho
-                                                                                                            https://discord.gg/epshop 
-                                                                                                            https://discord.gg/epshop 
-                                                                                                             https://discord.gg/epshop
-                                                                                                              https://discord.gg/epshop
-                                                                                                               https://discord.gg/epshop
-                                                                                                               https://discord.gg/epshop
-                                                                                                                https://discord.gg/epshop
-                                                                                                                 https://discord.gg/epshop
-                                                                                                                 https://discord.gg/epshop
-                                                                                                            
+# WEBSITE WILL BE UP SOON
+
+
+*OUR SUPPORT*
+discord.gg/epshop
