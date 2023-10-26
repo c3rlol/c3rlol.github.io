@@ -48,7 +48,9 @@
             width: 100%;
         }
 
-        .discord-button, .twitter-button, .shop-button {
+        .discord-button,
+        .twitter-button,
+        .shop-button {
             color: #fff;
             border: none;
             padding: 10px 20px;
@@ -82,6 +84,24 @@
             background-size: cover;
             background-position: center;
         }
+
+        .shop-item {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin-top: 20px;
+        }
+
+        .shop-item img {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+        }
+
+        .shop-item label {
+            margin-top: 10px;
+            font-size: 18px;
+        }
     </style>
 </head>
 
@@ -92,10 +112,31 @@
         <a class="discord-button" href="https://discord.gg/epshop"></a>
     </nav>
     <section>
-        <h2>Welcome to c3rlol.github.io</h2>
-        <p>We are a discord community that sells discord products and does giveaways.</p>
-        <p>Feel free to reach out to us on our Discord server for any questions or assistance.</p>
-        <p>this is made by faisal aka c3r.</p>
+        <div class="shop-item">
+            <img src="https://i0.wp.com/www.vga4a.com/wp-content/uploads/Discord-Nitro.jpg?resize=780%2C470&ssl=1" alt="Image 1">
+            <label>Nitro</label>
+        </div>
+        <div class="shop-item">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Robux_2019_Logo_gold.svg" alt="Image 2">
+            <label>Robux</label>
+        </div>
+        <div class="shop-item">
+            <img src="https://images-eds-ssl.xboxlive.com/image?url=Q_rwcVSTCIytJ0KOzcjWTYl.n38D8jlKWXJx7NRJmQKBAEDCgtTAQ0JS02UoaiwRCHTTX1RAopljdoYpOaNfVf5nBNvbwGfyR5n4DAs0DsOwxSO9puiT_GgKqinHT8HsW8VYeiiuU1IG3jY69EhnsQ--&format=source&w=207">
+            <label>discord tokens</label>
+        </div>
+        <div class="shop-item">
+            <img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/318271176/original/ab0d3c3006f0090e9c4b090f001c5b80f7fac60d/write-discord-bot-in-python-for-you.png" alt="Image 4">
+            <label>Discord Bots</label>
+        </div>
+        <div class="shop-item">
+            <img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/318271176/original/ab0d3c3006f0090e9c4b090f001c5b80f7fac60d/write-discord-bot-in-python-for-you.png" alt="Image 5">
+            <label>Discord Tools</label>
+        </div>
+    </section>
+</body>
+
+</html>
+
     </section>
 </body>
 
